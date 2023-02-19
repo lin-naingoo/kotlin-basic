@@ -1,2 +1,6 @@
+# Default ignored files
+/shelf/
 /.idea
 *.iml
+/libs
+/out
